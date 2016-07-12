@@ -1,3 +1,3 @@
 <?php
-echo "print stuff 2k16";
+print "print stuff 2k16";
 ?>
